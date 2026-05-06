@@ -1,6 +1,6 @@
 # Estudo de PHP - Primeiros passos
 
-Projeto pra aprender o básico de PHP: variáveis, constantes e funções de data.
+O básico de PHP: variáveis, constantes e funções de data.
 
 ## Conceitos estudados
 
