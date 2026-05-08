@@ -14,4 +14,4 @@ O básico de PHP: variáveis, constantes e funções de data.
 - `index.php` — página principal com exemplos
 
 ---
-[Ver online](https://mirandaromario09.github.io/2-)
+[Ver online](https://mirandaromario09.github.io/estudo-introducao-ao-php-variaveis-constantes)
